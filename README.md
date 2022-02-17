@@ -17,11 +17,11 @@
 
 ## About LicenseKit
 
-LicenseKit helps you protect your Swift-based apps and libraries with a commercial license. With LicenseKit, you can require that users register a valid license key before they can start using your products or certain features within. 
+LicenseKit helps you protect your Swift-based apps and libraries with a commercial license. With LicenseKit, you can require that users must register a valid license key before they can start using your products or certain features within. 
 
 LicenseKit lets you specify expiration date, supported platforms (iOS, macOS, tvOS, watchOS), bundle IDs, tier etc. for each license and validate the current license whenever you want.
 
-LicenseKit requires a commercial license. You can obtain a license from the [LicenseKit website][Licenses].
+LicenseKit requires a commercial license. You can obtain a license from the [LicenseKit website][Licenses] (coming soon, until then reach out via Twitter, e-mail etc.).
 
 
 
@@ -78,7 +78,7 @@ Feel free to reach out if you have any questions or need help any way:
 
 * E-mail: [daniel.saidi@gmail.com][Email]
 * Twitter: [@danielsaidi][Twitter]
-* Website: [danielsaidi.com][Website]
+* Website: [getlicensekit.com][Website] (coming soon)
 
 
 
