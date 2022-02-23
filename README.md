@@ -43,7 +43,7 @@ This means that you can use LicenseKit to protect your software on all major App
 The best way to install LicenseKit is with the Swift Package Manager.
 
 ```
-https://github.com/danielsaidi/LicenseKit.git
+https://github.com/LicenseKit/LicenseKit.git
 ```
 
 If you are building an app, LicenseKit only has to be added to the app target. If you are building a library, make sure to setup SPM so that your users adds both your library and LicenseKit.
